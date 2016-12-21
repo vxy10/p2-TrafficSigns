@@ -14,7 +14,7 @@ This repository contains the work I did for Udacity's Traffic sign classificatio
 | Human Accuracy | 98.32%      | [Humans](http://benchmark.ini.rub.de/)   |
 
 
-The file below presents training scheme. You can download the
+The file below presents training scheme. You can download the final trained model from [here](https://drive.google.com/file/d/0B1fs4jieX9OOVi0ybDdTQTBlbGM/view?usp=sharing).
 
 ###### File set up:
 
