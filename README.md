@@ -10,7 +10,6 @@ This repository contains the work I did for Udacity's Traffic sign classificatio
 | ------------- |:-------------:| -----: |
 | Spatial Transformer     | 99.81% | [Haloi](https://arxiv.org/pdf/1511.02992.pdf)  |
 | Committee of CNNs      | 99.47%      |  [Yann LeCun](http://yann.lecun.com/exdb/publis/pdf/sermanet-ijcnn-11.pdf) |
-|Our model+brightness augmentation | 99.1%      | [Yadav](https://medium.com/@vivek.yadav/german-sign-classification-using-deep-learning-neural-networks-98-8-solution-d05656bf51ad#.b06l1wwwg)   |
 | Our model | 98.8%      | [Yadav](https://medium.com/@vivek.yadav/german-sign-classification-using-deep-learning-neural-networks-98-8-solution-d05656bf51ad#.b06l1wwwg)   |
 | Human Accuracy | 98.32%      | [Humans](http://benchmark.ini.rub.de/)   |
 
