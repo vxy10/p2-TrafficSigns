@@ -713,7 +713,7 @@ labels_true_cls = tf.argmax(labels_true, dimension=1)
 
 Figure below presents the model architecture we will use. This architecture was converged upon after trying several different architectures.
 
-<img src="conv_net_sm.png">
+<img src="images/conv_net_sm.png">
 
 The first module in the model above is comprised of 3 1X1 filters. These filters have the effect of changing color maps. In most applications, changing color map can result in significant improvements in performance. However, it is not clear what the best color map is for different applications, therefore using 3 1X1 filters results in a case were the network itself ends up choosing the best color map.
 
